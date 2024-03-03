@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjectionExample", "DependencyInjectionExample\DependencyInjectionExample.csproj", "{ADB312B1-18DF-4032-831E-6FDEFF0A5BFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{D91FEFFA-BBFF-4D16-A54E-D48D3EBB93DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADB312B1-18DF-4032-831E-6FDEFF0A5BFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB312B1-18DF-4032-831E-6FDEFF0A5BFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB312B1-18DF-4032-831E-6FDEFF0A5BFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB312B1-18DF-4032-831E-6FDEFF0A5BFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D91FEFFA-BBFF-4D16-A54E-D48D3EBB93DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91FEFFA-BBFF-4D16-A54E-D48D3EBB93DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91FEFFA-BBFF-4D16-A54E-D48D3EBB93DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91FEFFA-BBFF-4D16-A54E-D48D3EBB93DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+/Users/muratturkay/Documents/source/startup/Test/DependencyInjectionExample/DependencyInjectionExample/bin/Debug/net8.0/DependencyInjectionExample
+/Users/muratturkay/Documents/source/startup/Test/DependencyInjectionExample/DependencyInjectionExample/bin/Debug/net8.0/DependencyInjectionExample.deps.json
+/Users/muratturkay/Documents/source/startup/Test/DependencyInjectionExample/DependencyInjectionExample/bin/Debug/net8.0/DependencyInjectionExample.runtimeconfig.json
+/Users/muratturkay/Documents/source/startup/Test/DependencyInjectionExample/DependencyInjectionExample/bin/Debug/net8.0/DependencyInjectionExample.dll
+/Users/muratturkay/Documents/source/startup/Test/DependencyInjectionExample/DependencyInjectionExample/bin/Debug/net8.0/DependencyInjectionExample.pdb
+/Users/muratturkay/Documents/source/startup/Test/DependencyInjectionExample/DependencyInjectionExample/obj/Debug/net8.0/DependencyInjectionExample.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muratturkay/Documents/source/startup/Test/DependencyInjectionExample/DependencyInjectionExample/obj/Debug/net8.0/DependencyInjectionExample.AssemblyInfoInputs.cache
+/Users/muratturkay/Documents/source/startup/Test/DependencyInjectionExample/DependencyInjectionExample/obj/Debug/net8.0/DependencyInjectionExample.AssemblyInfo.cs
+/Users/muratturkay/Documents/source/startup/Test/DependencyInjectionExample/DependencyInjectionExample/obj/Debug/net8.0/DependencyInjectionExample.csproj.CoreCompileInputs.cache
+/Users/muratturkay/Documents/source/startup/Test/DependencyInjectionExample/DependencyInjectionExample/obj/Debug/net8.0/DependencyInjectionExample.dll
+/Users/muratturkay/Documents/source/startup/Test/DependencyInjectionExample/DependencyInjectionExample/obj/Debug/net8.0/refint/DependencyInjectionExample.dll
+/Users/muratturkay/Documents/source/startup/Test/DependencyInjectionExample/DependencyInjectionExample/obj/Debug/net8.0/DependencyInjectionExample.pdb
+/Users/muratturkay/Documents/source/startup/Test/DependencyInjectionExample/DependencyInjectionExample/obj/Debug/net8.0/DependencyInjectionExample.genruntimeconfig.cache
+/Users/muratturkay/Documents/source/startup/Test/DependencyInjectionExample/DependencyInjectionExample/obj/Debug/net8.0/ref/DependencyInjectionExample.dll
